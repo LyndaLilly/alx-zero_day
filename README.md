@@ -1,1 +1,1 @@
-I AM A SOFTWARE ENGINEER IN ALX
+I am glad to be in ALX programme
