@@ -1,3 +1,7 @@
+ main
+# alx-zero_day
+I'm now a ALX Student, this is my first repository as a full-stack engineer
+
 Toggle navigation 0x03. Git By Guillaume Weight: 1 Ongoing project - started 03-01-2022, must end by 03-02-2022 (in about 17 hours) - you're done with 80% of tasks. Checker was released at 03-01-2022 06:00 AM An auto review will be launched at the deadline Concepts For this project, students are expected to look at these concepts:
 
 Right-engineering, right-documenting Source code management Git and Github cheat sheet - Everything in less than 30 seconds Resources Read or watch:
@@ -119,3 +123,4 @@ Never push too much #advanced Create a .gitignore file and define a rule to neve
 Repo:
 
 GitHub repository: alx-zero_day Directory: 0x03-git File: .gitignore
+ master
