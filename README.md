@@ -1,2 +1,2 @@
-I am glad to be in ALX programme
-programming is good and 
+I am glad to be in ALX program
+LillyTech programming 
