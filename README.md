@@ -1,2 +1,2 @@
 I am glad to be in ALX programme
-programming is good 
+programming is good and 
